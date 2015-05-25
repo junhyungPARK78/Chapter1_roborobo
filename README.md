@@ -3,7 +3,6 @@
 ### [Tutorial LINK](http://progagmer.blog.me/194973060) ###
 
 #### Doing ####
-- http://progagmer.blog.me/196356114
 - http://progagmer.blog.me/196469369
 - http://progagmer.blog.me/196503719
 - http://progagmer.blog.me/196505407
@@ -33,3 +32,4 @@
 - http://progagmer.blog.me/196347569
 - http://progagmer.blog.me/196350342
 - http://progagmer.blog.me/196353497
+- http://progagmer.blog.me/196356114
