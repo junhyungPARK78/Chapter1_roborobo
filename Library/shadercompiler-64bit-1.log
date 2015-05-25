@@ -77,3 +77,7 @@ Cmd: compileSnippet
   api=0 type=0 insize=6810 outsize=2256 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON ok=1
 Cmd: compileSnippet
   api=0 type=1 insize=6810 outsize=6 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=959 outsize=394 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=959 outsize=6 kw= ok=1
